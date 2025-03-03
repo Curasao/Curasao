@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Palenova Darya
 - 👀 I’m manual QA and write automated tests
-- 🌱 I’m currently learning Selenium and Cypress
+- 🌱 I’m currently learning Selenium and Playwright (Python)
 
 
 <!---
