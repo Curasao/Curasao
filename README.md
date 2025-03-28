@@ -5,7 +5,7 @@
 
 
   
-<img src="https://simpleicons.org/?modal=icon&q=renpy" height="32"/> 
+<img src="https://simpleicons.org/?modal=icon&q=renpy" height="32"></img> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
