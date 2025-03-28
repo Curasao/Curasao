@@ -10,7 +10,7 @@
   <img src="https://simpleicons.org/icons/jetbrains.svg" alt="PyCharm Icon" width="160">
   <img src="https://simpleicons.org/icons/postman.svg" alt="PyCharm Icon" width="160">
   <img src="https://simpleicons.org/icons/jenkins.svg" alt="PyCharm Icon" width="160">
-  <img src="https://simpleicons.org/icons/sql.svg" alt="PyCharm Icon" width="160">
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="PyCharm Icon" width="160">
   <img src="https://simpleicons.org/icons/git.svg" alt="PyCharm Icon" width="160">
   <img src="https://simpleicons.org/icons/python.svg" alt="PyCharm Icon" width="160">
   <img src="https://simpleicons.org/icons/pycharm.svg" alt="PyCharm Icon" width="160">
