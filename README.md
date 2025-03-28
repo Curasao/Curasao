@@ -4,8 +4,13 @@
 
 
 
+<img src="https://simpleicons.org/?modal=icon&q=pycharm" alt="Pycharm Icon" width="160">
+
+<img src="https://simpleicons.org/?modal=icon&q=sqlite" alt="SQL Lite Icon" width="160">
   
 <img src="https://simpleicons.org/icons/renpy.svg" alt="Ren'Py Icon" width="160">
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
