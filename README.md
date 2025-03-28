@@ -7,7 +7,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/Curasao=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
 <!---
 Curasao/Curasao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
