@@ -4,12 +4,11 @@
 
 
 
-<center><img src="https://simpleicons.org/icons/pycharm.svg" alt="Pycharm Icon" width="160"></center>
-
-<center><img src="https://simpleicons.org/icons/sqlite.svg" alt="SQL Lite Icon" width="160"></center>
-  
-<center><img src="https://simpleicons.org/icons/renpy.svg" alt="Ren'Py Icon" width="160"></center>
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://simpleicons.org/icons/pycharm.svg" alt="PyCharm Icon" width="160">
+  <img src="https://simpleicons.org/icons/sqlite.svg" alt="SQLite Icon" width="160">
+  <img src="https://simpleicons.org/icons/renpy.svg" alt="Ren'Py Icon" width="160">
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
