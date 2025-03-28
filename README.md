@@ -5,7 +5,7 @@
 
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Curasao&repo=github.com/Curasao/qa_guru_tests)](https://github.com/Curasao/qa_guru_tests)
+<img src="https://simpleicons.org/?modal=icon&q=renpy" height="32"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
