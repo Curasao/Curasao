@@ -5,7 +5,7 @@
 
 
   
-<img src="https://simpleicons.org/icons/renpy.svg" alt="Ren'Py Icon" width="32">
+<img src="https://simpleicons.org/icons/renpy.svg" alt="Ren'Py Icon" width="160">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
