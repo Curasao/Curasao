@@ -5,7 +5,7 @@
 
 
   
-[![trophy](https://github-profile-trophy.vercel.app/Curasao=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Curasao&repo=github-readme-stats)](https://github.com/Curasao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
