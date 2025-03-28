@@ -4,9 +4,9 @@
 
 
 
-<img src="https://simpleicons.org/?modal=icon&q=pycharm" alt="Pycharm Icon" width="160">
+<img src="https://simpleicons.org/icons/pycharm.svg" alt="Pycharm Icon" width="160">
 
-<img src="https://simpleicons.org/?modal=icon&q=sqlite" alt="SQL Lite Icon" width="160">
+<img src="https://simpleicons.org/icons/sqlite.svg" alt="SQL Lite Icon" width="160">
   
 <img src="https://simpleicons.org/icons/renpy.svg" alt="Ren'Py Icon" width="160">
 
