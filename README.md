@@ -5,7 +5,7 @@
 
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Curasao&repo=github-readme-stats)](https://github.com/Curasao/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curasao)](https://github.com/Curasao/github-readme-stats)
 
